@@ -72,7 +72,7 @@ public class jsonconvertor {
 		FileWriter fw=new FileWriter("E:\\Vid\\"+vid+"_request.json");    
 		          fw.write(request);    
 		          fw.close();  
-		          System.out.print("Comleted");
+		          System.out.print("Comlete");
 		}
 
 
